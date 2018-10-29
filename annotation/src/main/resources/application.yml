@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 192.168.9.219
+    port: 5672
+    username: guest
+    password: guest
+#默认账号/密码 guest/guest
